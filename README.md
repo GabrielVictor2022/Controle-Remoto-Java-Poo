@@ -1,2 +1,2 @@
 # Controle-Remoto-Java-Poo
-Controle remoto usando programação orientada a objetos 
+Controle remoto em java usando programação orientada a objetos 

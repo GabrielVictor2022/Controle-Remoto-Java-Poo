@@ -2,7 +2,7 @@ package aula06;
 
 import java.util.Scanner;
 
-public class MenuControle {
+public class Aula06 {
 
 	public static void main(String[] args) {
 		

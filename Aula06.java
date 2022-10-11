@@ -2,7 +2,7 @@ package aula06;
 
 import java.util.Scanner;
 
-public class Aula06 {
+public class MenuControle {
 
 	public static void main(String[] args) {
 		
@@ -63,7 +63,7 @@ public class Aula06 {
 				break;
 
 			default:
-				System.out.println("OpÁ„o inv·lida!");
+				System.out.println("Op√ß√£o inv√°lida!");
 				break;
 			}
 		} while (escolha != 0);
